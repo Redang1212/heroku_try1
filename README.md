@@ -1,2 +1,2 @@
-# heroku_try1
-Deploy First Flask App on Heroku • ML model deployed • step by step • Application crashed
+# deploy-ml-model-flask
+ deploy your ml model using flask
